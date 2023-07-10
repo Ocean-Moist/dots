@@ -1,0 +1,31 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Android.DeviceManager">
+      <i c="1" l="1669833307444" />
+    </e>
+    <e n="ImportApkAction">
+      <i c="1" l="1669833394828" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1669833434736" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1669833272832" />
+    </e>
+    <e n="android.emulator.extended.controls">
+      <i c="2" l="1669833334670" />
+    </e>
+    <e n="com.intellij.diagnostic.IdeMessagePanel$4">
+      <i c="1" l="1669833297155" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="1" l="1669833353302" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="1" l="1669833302028" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1669833344485" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,105 @@
+ls
+(http get https://api.chucknorris.io/jokes/random).value
+help commands | where command_type != builtin | first 10 | drop column 2
+help commands | where command_type != builtin | first 10
+lines
+help lines
+cargo search shells --limit 10
+help str trim
+lsusb
+lsusb | lines
+cargo search shells --limit 10
+lsusb | lines | parse "Bus {Bus} Device {Device}: ID {ID} {Name}" | str trim
+lspci
+lspci ==help
+lspci | lines 
+lspci | lines | parse "{ID} {Type}: {Name}" | take 10         
+echo 200 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness
+echo 255 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness
+sudo echo 255 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness
+startc
+chsh -s /bin/bash
+reboot
+cd .config/nushell/ls
+cd .config/nushell/
+ls
+nvim config.nu
+nvim ../../.bashrc
+vpn
+alias
+alias --help
+sudo echo 1 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness
+lspci | lines | parse "{ID} {Type}: {Name}" | take 10         
+sudo echo 1 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness
+sudo echo 255 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness &> /dev/null
+sudo echo 255 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness | /dev/null
+sudo echo 255 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness > /dev/null
+sudo echo 1 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness >/dev/null
+sudo echo 255 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness > 
+echo 255 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness > /dev/null<\n>
+echo 255 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness > /dev/null
+echo 1 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness > /dev/null
+sudo echo 1 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness > /dev/null
+sudo echo 255 | sudo tee /sys/class/backlight/amdgpu_bl0/brightness > /dev/null
+sudo sh -c 'echo 1 > /sys/class/backlight/amdgpu_bl0/brightness' >/dev/null
+sudo sh -c 'echo 255 > /sys/class/backlight/amdgpu_bl0/brightness' >/dev/null
+nvim ~/.local/bin/bright
+bright
+chmod a+x ~/.local/bin/bright
+bright
+~/.local/bin/bright
+nvim ~/.local/bin/bright
+chmod a+x ~/.local/bin/bright
+~/.local/bin/bright
+~/.local/bin/bright 1
+nvim ~/.local/bin/bright
+~/.local/bin/bright 1
+~/.local/bin/bright 
+nvim ~/.local/bin/bright
+~/.local/bin/bright 
+~/.local/bin/bright 1
+~/.local/bin/bright 255
+bright 
+source
+BRIGHT
+bright
+echo $PATH
+echo $env.PATH
+mv .local/bin/bright /bin/
+sudo mv .local/bin/bright /bin/
+bright 1
+bright 255
+cd .config/
+ls
+ls | filter
+ls | filter type == dir
+ls | filter (type == dir)
+ls | filter (|x| $x.type == dir)
+ls | filter {|x| $x.type == dir}
+ls | filter {|x| $x.type == dir} | take 10
+ls | filter {|x| $x.type == dir} | take 10 | less
+ls | filter {|x| $x.type == dir} | <\n>
+ls autostart/
+ll
+la
+ls
+lss Rygel/
+ls Rygel/
+ls | filter {|x| $x.type == dir} | sort 
+ls | filter {|x| $x.type == dir} | sort modified
+ls | filter {|x| $x.type == dir} | sort-by modified
+ls github-copilot/
+cat github-copilot/hosts.json
+ls JetBrains/
+ls JetBrains/IntelliJIdea2023.1/
+mkdir ../config
+cp -r JetBrains/ ../config/
+ls Google/
+cp Code/ ../config/
+cp -r Code/ ../config/
+ls ../config/
+cp -r Google/ ../config/
+ls Microsoft/
+cp -r alacritty/ ../config/
+cp -r htop/ ../config/
+cp -r neofetch/ ../config/

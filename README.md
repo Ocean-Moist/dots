@@ -1,2 +1,2 @@
 # dots
-linux configs
+linux dotfiles + extra config 

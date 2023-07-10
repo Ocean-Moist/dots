@@ -1,0 +1,41 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2I81tNSTIxssQFl8nVxZoxad4Wh">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2IHL9X151FL9kKCaAPM4toPecEz">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="IdeErrorsDialog.LAST_OK_ACTION" value="REPORT_AND_CLEAR_ALL" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="appcds.runOnSecondStart" value="AI-213.7172.25.2113.9123335-ab6389f13b4381ee64d13943dbada23688b31d6892a534183d875d0707c9db84" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="bundled.plugins.list.saved.version" value="AI-213.7172.25.2113.9123335" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Downloads/Qrated - News for Youth_1.0.0_apkcombo.com.apk&#10;/home/rohan/Qrated - News for Youth_1.0.0_apkcombo.com" />
+    <property name="file.gist.reindex.count" value="5" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="fileTypeDetectors" value="com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.jetbrains.cidr.lang.OCHeaderFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="ide.updates.previous.build.number" value="AI-213.7172.25.2113.9123335" />
+    <property name="input.method.disabler.muted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="213-1.7.20-release-for-android-studio-AS6777.52" />
+    <property name="last.apk.imported.location" value="$USER_HOME$/Downloads/Qrated - News for Youth_1.0.0_apkcombo.com.apk" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Qrated - News for Youth_1.0.0_apkcombo.com.apk" />
+    <property name="newly.installed.api.level" value="31" />
+    <property name="registry.to.advanced.settings.migration.build" value="AI-213.7172.25.2113.9123335" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

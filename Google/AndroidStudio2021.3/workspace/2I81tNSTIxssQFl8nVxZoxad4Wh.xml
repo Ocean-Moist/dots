@@ -1,0 +1,86 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Qrated - News for Youth_1.0.0_apkcombo.com" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Qrated - News for Youth_1.0.0_apkcombo.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Qrated - News for Youth_1.0.0_apkcombo.com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Qrated - News for Youth_1.0.0_apkcombo.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Qrated - News for Youth_1.0.0_apkcombo.com" type="462c0819:PsiDirectoryNode" />
+              <item name="smali" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2502604" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Bookmarks" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="clangd" order="4" />
+      <window_info anchor="bottom" id="Logcat" order="5" />
+      <window_info anchor="bottom" id="Services" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="App Inspection" order="5" />
+      <window_info anchor="right" id="Layout Validation" order="5" />
+      <window_info anchor="right" id="Assistant:" order="5" weight="0.32994792" />
+      <window_info anchor="right" id="Android Emulator" order="5" sideWeight="0.49948454" side_tool="true" visible="true" weight="0.32994792" />
+      <window_info anchor="right" id="Device Manager" order="5" sideWeight="0.50051546" visible="true" weight="0.32994792" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Android Emulator</value>
+      <value>Device Manager</value>
+      <value>Assistant:</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="226" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1669833353307">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="226" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1669833353307" />
+    <state x="731" y="308" key="FileChooserDialogImpl" timestamp="1669833410000">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="731" y="308" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1669833410000" />
+    <state x="548" y="307" key="IDE.errors.dialog" timestamp="1669833300103">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="548" y="307" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1669833300103" />
+  </component>
+</project>
