@@ -1,0 +1,11 @@
+#!/bin/bash
+
+brightness_level=$1
+
+if [[ -z $brightness_level ]]; then
+  echo "Please provide the brightness level as an argument."
+  exit 1
+fi
+
+sudo sh -c "echo $brightness_level > /sys/class/backlight/amdgpu_bl0/brightness" >/dev/null
+
