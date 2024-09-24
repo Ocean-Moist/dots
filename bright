@@ -7,5 +7,5 @@ if [[ -z $brightness_level ]]; then
   exit 1
 fi
 
-sudo sh -c "echo $brightness_level > /sys/class/backlight/amdgpu_bl0/brightness" >/dev/null
+sudo sh -c "echo $brightness_level > /sys/class/backlight/intel_backlight/brightness" >/dev/null
 
