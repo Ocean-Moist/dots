@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/rohan/.config/nvim'
+let g:netrw_dirhist_9='/home/rohan/.config'
+let g:netrw_dirhist_8='/'
+let g:netrw_dirhist_7='/home/rohan/callflow_analyzer'
+let g:netrw_dirhist_6='/home/rohan/callflow_analyzer/.claude'
+let g:netrw_dirhist_5='/home/rohan/callflow_analyzer'
+let g:netrw_dirhist_4='/home/rohan/callflow_analyzer/.github'
+let g:netrw_dirhist_3='/home/rohan/callflow_analyzer/.github/workflows'
+let g:netrw_dirhist_2='/home/rohan/callflow_analyzer/.github'
+let g:netrw_dirhist_1='/home/rohan/callflow_analyzer/.github/workflows'

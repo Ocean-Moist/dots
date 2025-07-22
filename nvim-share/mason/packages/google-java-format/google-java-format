@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+exec java -jar "/home/rohan/.local/share/nvim/mason/packages/google-java-format/google-java-format-1.21.0-all-deps.jar" "$@"

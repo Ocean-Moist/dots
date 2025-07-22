@@ -1,0 +1,1 @@
+{"secondary_sources":[],"schema_version":"1.1","metrics":{"start_time":1708976253760,"completion_time":1708976265969},"links":{"bin":{"elm-format":"node_modules\/.bin\/elm-format"},"share":{},"opt":{}},"primary_source":{"type":"registry+v1","id":"pkg:npm\/elm-format@0.8.7"},"name":"elm-format"}
